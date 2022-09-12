@@ -22,7 +22,7 @@ marked.setOptions({
 // import data_ from '../assets/temp/data.json'
 const data = ref([])
 onMounted(() => {
-  let data_url = 'https://raw.githubusercontent.com/RaidasGrisk/personal_website/static-assets/assets/data.json'
+  let data_url = 'https://raw.githubusercontent.com/RaidasGrisk/raidasgrisk.github.io/static-assets/assets/data.json'
   axios.get(data_url).then(resp => {
     data.value = resp.data
     // fetch md from static-assets
