@@ -151,7 +151,7 @@
         "icon_url": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg"
       },
       {
-        "title": "Google cloud",
+        "title": "google cloud",
         "icon_url": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg"
       },
       {
@@ -181,11 +181,11 @@
     ],
     "tech_stack": [
       {
-        "title": "Google cloud",
+        "title": "google cloud",
         "icon_url": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg"
       },
       {
-        "title": "Docker",
+        "title": "docker",
         "icon_url": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg"
       },
       {
@@ -227,11 +227,11 @@
     ],
     "tech_stack": [
       {
-        "title": "Google cloud",
+        "title": "google cloud",
         "icon_url": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg"
       },
       {
-        "title": "Docker",
+        "title": "docker",
         "icon_url": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg"
       },
       {
@@ -261,11 +261,11 @@
     ],
     "tech_stack": [
       {
-        "title": "Google cloud",
+        "title": "google cloud",
         "icon_url": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg"
       },
       {
-        "title": "Docker",
+        "title": "docker",
         "icon_url": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg"
       },
       {
@@ -289,20 +289,11 @@
   {
     "time": "2022",
     "header": "Learning blockchain",
-    "tags": ["blockchain", "front end"],
+    "tags": ["blockchain", "smart contracts", "EVM"],
     "description": "https://raw.githubusercontent.com/RaidasGrisk/raidasgrisk.github.io/static-assets/assets/9.md",
-    "github_links": [
-      {
-        "title": "google",
-        "url": "https://www.google.com"
-      },
-      {
-        "title": "youtube",
-        "url": "https://www.youtube.com"
-      }
-    ],
+    "github_links": [],
     "tech_stack": [{
-        "title": "Solidity",
+        "title": "solidity",
         "icon_url": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg"
       },
       {
@@ -310,7 +301,7 @@
         "icon_url": "https://pbs.twimg.com/profile_images/1317925773425168384/XQkaoFRg_400x400.jpg"
       },
       {
-        "title": "Nodejs",
+        "title": "nodejs",
         "icon_url": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
       }
     ]
