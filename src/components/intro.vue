@@ -20,7 +20,7 @@ const emailButtonClick = async () => {
     <n-avatar
       round
       :size="250"
-      :src="'src/assets/profile_pics/profile-pic_1.png'"
+      :src="'https://raw.githubusercontent.com/RaidasGrisk/raidasgrisk.github.io/static-assets/assets/profile_pic.png'"
       style="border: 4px solid #999999;"
     /><br><br>
     <div style="max-width: 360px; position: relative; top: 50%; -webkit-transform: translateY(-50%); -ms-transform: translateY(-50%); transform: translateY(-50%);">
