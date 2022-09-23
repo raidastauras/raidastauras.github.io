@@ -12,19 +12,11 @@ const emailButtonClick = async () => {
 }
 
 const show = ref(false)
-// const data = {
-//   '🎯': "I'm progress oriented, so I lean towards seeing things as they should be instead of as they are.",
-//   '🌶️': "Usually I'm curious to try out the newest and hottest tech.",
-//   '🔦': "I tend to care about how things actually work. Seldom do I manage to grasp all, but doing this is very rewarding.",
-//   '🖼️': "I embrace the unusual ways to solve problems / implement things. It doesn't work all the time, but helps me learn and understand why the conventional / well tested solutions are the way they are (which is mostly the optimal way).",
-//   '⚗️': "I think that scientific method and science in general is the way to go in almost every situation.",
-//   '🐝': "I tend to work smart rather than hard. Also, am completely not afraid of working really hard.",
-// }
-
 const data = ref({})
 onMounted(() => {
   let data_url = 'https://raw.githubusercontent.com/RaidasGrisk/raidasgrisk.github.io/static-assets/assets/intro.json'
   axios.get(data_url).then(resp => {
+    console.log(resp.data)
     data.value = resp.data
   })
 })
@@ -57,20 +49,6 @@ onMounted(() => {
           aspiring blockchain developer
         </n-text>
       </div>
-      <!-- <br> -->
-      <!-- <div>
-        <n-text strong depth="3" type="primary" style="font-size: 25px">
-          I enjoy / strive
-        </n-text>
-        <n-text strong>
-          <n-divider vertical />
-          learning
-          <n-divider vertical />
-          trying out new stuff
-          <n-divider vertical />
-          writing well structured, readable and efficient code
-        </n-text>
-      </div> -->
       <br>
       <n-tag round :bordered="false" :size="'large'" style="padding: 30px;">
         <template #default>
@@ -100,7 +78,7 @@ onMounted(() => {
       <n-card style="max-width: 41.2rem; ">
         <n-table :bordered="false" :single-line="false">
           <tbody style="text-align: justify; text-justify: inter-word;">
-            <tr v-for="(value, key) in data">
+            <tr v-for="(value, key, index) in data">
               <td style="border: 0px;"><h4>{{ key }}</h4></td>
               <td style="border: 0px;"><n-divider vertical style="height: 20px; width: 2px;"/></td>
               <td style="border: 0px;">{{ value }}</td>
