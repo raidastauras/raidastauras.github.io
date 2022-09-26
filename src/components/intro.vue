@@ -50,6 +50,10 @@ onMounted(() => {
         </n-text>
       </div>
       <br>
+      <div>
+        <a @click="show = !show" style="cursor: pointer">More about me...</a>
+      </div>
+      <br>
       <n-tag round :bordered="false" :size="'large'" style="padding: 30px;">
         <template #default>
           <n-space>
