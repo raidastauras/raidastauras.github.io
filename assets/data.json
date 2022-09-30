@@ -303,6 +303,10 @@
       {
         "title": "nodejs",
         "icon_url": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
+      },
+      {
+        "title": "snarkyjs",
+        "icon_url": "https://cryptologos.cc/logos/mina-mina-logo.png"
       }
     ]
   }
