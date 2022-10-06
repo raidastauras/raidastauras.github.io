@@ -122,9 +122,9 @@ const whatIstheDataOrder = () => {
               </n-space>
             </template>
             <template #action>
-              <n-h3 prefix="bar" type="info">
+              <!-- <n-h3 prefix="bar" type="info">
                 Tech stack:
-              </n-h3>
+              </n-h3> -->
               <n-space size="small">
                 <template v-for="tech in item.tech_stack">
                   <n-tooltip trigger="hover">
