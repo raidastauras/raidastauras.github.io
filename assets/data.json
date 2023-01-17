@@ -289,7 +289,7 @@
   {
     "time": "2022",
     "header": "Learning blockchain",
-    "tags": ["blockchain", "smart contracts", "EVM"],
+    "tags": ["blockchain", "smart contracts", "EVM", "zero-knowledge proofs"],
     "description": "https://raw.githubusercontent.com/RaidasGrisk/raidasgrisk.github.io/static-assets/assets/9.md",
     "github_links": [],
     "tech_stack": [{
