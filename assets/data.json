@@ -292,7 +292,8 @@
     "tags": ["blockchain", "smart contracts", "EVM", "zero-knowledge proofs"],
     "description": "https://raw.githubusercontent.com/RaidasGrisk/raidasgrisk.github.io/static-assets/assets/9.md",
     "github_links": [],
-    "tech_stack": [{
+    "tech_stack": [
+      {
         "title": "solidity",
         "icon_url": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg"
       },
@@ -309,5 +310,67 @@
         "icon_url": "https://cryptologos.cc/logos/mina-mina-logo.png"
       }
     ]
-  }
+  },
+  {
+    "time": "2023/01 - 2023/03",
+    "header": "Building a website powered by CMS",
+    "tags": ["full-stack-dev", "CMS", "devops"],
+    "description": "https://raw.githubusercontent.com/RaidasGrisk/raidasgrisk.github.io/static-assets/assets/10.md",
+    "github_links": [],
+    "tech_stack": [
+      {
+        "title": "Strapi",
+        "icon_url": "https://www.svgrepo.com/show/354399/strapi-icon.svg"
+      },
+      {
+        "title": "vuejs",
+        "icon_url": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"
+      },
+      {
+        "title": "google cloud",
+        "icon_url": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg"
+      },
+      {
+        "title": "docker",
+        "icon_url": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg"
+      },
+      {
+        "title": "Nodejs",
+        "icon_url": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
+      }
+    ]
+  },
+  {
+    "time": "2022/01 - ongoing",
+    "header": "Mina protocol",
+    "tags": ["zero-knowledge proofs", "smart contracts"],
+    "description": "https://raw.githubusercontent.com/RaidasGrisk/raidasgrisk.github.io/static-assets/assets/11.md",
+    "github_links": [],
+    "tech_stack": [
+      {
+        "title": "snarkyjs",
+        "icon_url": "https://cryptologos.cc/logos/mina-mina-logo.png"
+      },
+      {
+        "title": "vuejs",
+        "icon_url": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"
+      },
+      {
+        "title": "graphQL",
+        "icon_url": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg"
+      },     
+      {
+        "title": "google cloud",
+        "icon_url": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg"
+      },
+      {
+        "title": "docker",
+        "icon_url": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg"
+      },
+      {
+        "title": "Nodejs",
+        "icon_url": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
+      }
+    ]
+  }  
 ]
