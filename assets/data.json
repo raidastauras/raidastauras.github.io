@@ -1,376 +1,424 @@
 [
-  {
-    "time": "2017",
-  	"header": "Machine Learning",
-  	"tags": ["machine learning", "computer science", "openAI-gym"],
-  	"description": "https://raw.githubusercontent.com/RaidasGrisk/raidasgrisk.github.io/static-assets/assets/1.md",
-  	"github_links": [
-      {
-        "title": "ML-algos",
-        "url": "https://github.com/RaidasGrisk/ML-algorithms"
-      },
-      {
-        "title": "CS50",
-        "url": "https://github.com/RaidasGrisk/cs50-harward"
-      }
-    ],
-  	"tech_stack": [
-      {
-  			"title": "python",
-  			"icon_url": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
-  		},
-  		{
-  			"title": "numpy",
-  			"icon_url": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg"
-  		},
-      {
-        "title": "tensorflow",
-        "icon_url": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg"
-      }
-  	]
-  },
-  {
-    "time": "2018",
-  	"header": "Trading bot",
-  	"tags": ["data science", "machine learning"],
-  	"description": "https://raw.githubusercontent.com/RaidasGrisk/raidasgrisk.github.io/static-assets/assets/2.md",
-  	"github_links": [
-      {
-        "title": "trading-bot",
-        "url": "https://github.com/RaidasGrisk/Trading-Bot"
-      }
-    ],
-  	"tech_stack": [
-      {
-        "title": "python",
-        "icon_url": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
-      },
-      {
-        "title": "numpy",
-        "icon_url": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg"
-      },
-      {
-        "title": "tensorflow",
-        "icon_url": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg"
-      },
-      {
-        "title": "pandas",
-        "icon_url": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg"
-      }
-  	]
-  },
-  {
-    "time": "2018 - 2019",
-    "header": "Data Scientist at Western Union",
-    "tags": ["data science", "machine learning"],
-    "description": "https://raw.githubusercontent.com/RaidasGrisk/raidasgrisk.github.io/static-assets/assets/3.md",
-    "github_links": [],
-    "tech_stack": [
-      {
-        "title": "python",
-        "icon_url": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
-      },
-      {
-        "title": "scikit-learn",
-        "icon_url": "https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_77c883b19775c25838d2055fc2e7387e/scikit-learn.png"
-      },
-      {
-        "title": "numpy",
-        "icon_url": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg"
-      },
-      {
-        "title": "tensorflow",
-        "icon_url": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg"
-      },
-      {
-        "title": "pandas",
-        "icon_url": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg"
-      },
-      {
-        "title": "SQL",
-        "icon_url": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"
-      },
-      {
-        "title": "bash",
-        "icon_url": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"
-      }
-    ]
-  },
-  {
-    "time": "2019",
-    "header": "Deeper dive into computer vision",
-    "tags": ["machine learning", "Computer vision"],
-    "description": "https://raw.githubusercontent.com/RaidasGrisk/raidasgrisk.github.io/static-assets/assets/4.md",
-    "github_links": [
-      {
-        "title": "tf2-crnn",
-        "url": "https://github.com/RaidasGrisk/tf2-crnn"
-      },
-      {
-        "title": "tf2-fots",
-        "url": "https://github.com/RaidasGrisk/tf2-fots"
-      },
-      {
-        "title": "tf2-face-detection-recognition",
-        "url": "https://github.com/RaidasGrisk/tf2-face-detection-recognition"
-      }
-    ],
-    "tech_stack": [
-      {
-        "title": "python",
-        "icon_url": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
-      },
-      {
-        "title": "numpy",
-        "icon_url": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg"
-      },
-      {
-        "title": "tensorflow",
-        "icon_url": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg"
-      }
-    ]
-  },
-  {
-    "time": "2019",
-    "header": "Web scraping",
-    "tags": ["web-scraping", "full-stack-dev"],
-    "description": "https://raw.githubusercontent.com/RaidasGrisk/raidasgrisk.github.io/static-assets/assets/5.md",
-    "github_links": [
-      {
-        "title": "cvpis-app",
-        "url": "https://github.com/RaidasGrisk/cvpisApp"
-      }
-    ],
-    "tech_stack": [
-      {
-        "title": "python",
-        "icon_url": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
-      },
-      {
-        "title": "nginx",
-        "icon_url": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg"
-      },
-      {
-        "title": "google cloud",
-        "icon_url": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg"
-      },
-      {
-        "title": "aws",
-        "icon_url": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg"
-      },
-      {
-        "title": "bash",
-        "icon_url": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"
-      },
-      {
-        "title": "couchdb",
-        "icon_url": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/couchdb/couchdb-original.svg"
-      }
-    ]
-  },
-  {
-    "time": "2020",
-    "header": "NameSpy",
-    "tags": ["web-scraping", "full-stack-dev", "machine learning"],
-    "description": "https://raw.githubusercontent.com/RaidasGrisk/raidasgrisk.github.io/static-assets/assets/6.md",
-    "github_links": [
-      {
-        "title": "nameSpy",
-        "url": "https://github.com/RaidasGrisk/nameSpy"
-      }
-    ],
-    "tech_stack": [
-      {
-        "title": "google cloud",
-        "icon_url": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg"
-      },
-      {
-        "title": "docker",
-        "icon_url": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg"
-      },
-      {
-        "title": "nginx",
-        "icon_url": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg"
-      },
-      {
-        "title": "python",
-        "icon_url": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
-      },
-      {
-        "title": "vuejs",
-        "icon_url": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"
-      },
-      {
-        "title": "mongodb",
-        "icon_url": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"
-      }
-    ]
-  },
-  {
-    "time": "2020",
-    "header": "Reddit r/cryptocurrency coin mention app",
-    "tags": ["full-stack-dev", "reddit", "asynchronous programming"],
-    "description": "https://raw.githubusercontent.com/RaidasGrisk/raidasgrisk.github.io/static-assets/assets/7.md",
-    "github_links": [
-      {
-        "title": "reddit-to-db",
-        "url": "https://github.com/RaidasGrisk/reddit-to-db"
-      },
-      {
-        "title": "reddit-coin-api",
-        "url": "https://github.com/RaidasGrisk/reddit-coin-app"
-      },
-      {
-        "title": "reddit-coin-frontend",
-        "url": "https://github.com/RaidasGrisk/reddit-coin-web"
-      }
-    ],
-    "tech_stack": [
-      {
-        "title": "google cloud",
-        "icon_url": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg"
-      },
-      {
-        "title": "docker",
-        "icon_url": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg"
-      },
-      {
-        "title": "nginx",
-        "icon_url": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg"
-      },
-      {
-        "title": "python",
-        "icon_url": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
-      },
-      {
-        "title": "vuejs",
-        "icon_url": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"
-      },
-      {
-        "title": "postgresdb",
-        "icon_url": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"
-      }
-    ]
-  },
-  {
-    "time": "2021/09 - 2022/06",
-    "header": "Gov project: LMS from scratch",
-    "tags": ["full-stack-dev", "devops"],
-    "description": "https://raw.githubusercontent.com/RaidasGrisk/raidasgrisk.github.io/static-assets/assets/8.md",
-    "github_links": [
-    ],
-    "tech_stack": [
-      {
-        "title": "google cloud",
-        "icon_url": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg"
-      },
-      {
-        "title": "docker",
-        "icon_url": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg"
-      },
-      {
-        "title": "nginx",
-        "icon_url": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg"
-      },
-      {
-        "title": "Nodejs",
-        "icon_url": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
-      },
-      {
-        "title": "vuejs",
-        "icon_url": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"
-      },
-      {
-        "title": "mongodb",
-        "icon_url": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"
-      }
-    ]
-  },
-  {
-    "time": "2022",
-    "header": "Learning blockchain",
-    "tags": ["blockchain", "smart contracts", "EVM", "zero-knowledge proofs"],
-    "description": "https://raw.githubusercontent.com/RaidasGrisk/raidasgrisk.github.io/static-assets/assets/9.md",
-    "github_links": [],
-    "tech_stack": [
-      {
-        "title": "solidity",
-        "icon_url": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg"
-      },
-      {
-        "title": "hardhat",
-        "icon_url": "https://pbs.twimg.com/profile_images/1317925773425168384/XQkaoFRg_400x400.jpg"
-      },
-      {
-        "title": "nodejs",
-        "icon_url": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
-      },
-      {
-        "title": "snarkyjs",
-        "icon_url": "https://cryptologos.cc/logos/mina-mina-logo.png"
-      }
-    ]
-  },
-  {
-    "time": "2023/01 - 2023/03",
-    "header": "Building a website powered by CMS",
-    "tags": ["full-stack-dev", "CMS", "devops"],
-    "description": "https://raw.githubusercontent.com/RaidasGrisk/raidasgrisk.github.io/static-assets/assets/10.md",
-    "github_links": [],
-    "tech_stack": [
-      {
-        "title": "Strapi",
-        "icon_url": "https://www.svgrepo.com/show/354399/strapi-icon.svg"
-      },
-      {
-        "title": "vuejs",
-        "icon_url": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"
-      },
-      {
-        "title": "google cloud",
-        "icon_url": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg"
-      },
-      {
-        "title": "docker",
-        "icon_url": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg"
-      },
-      {
-        "title": "Nodejs",
-        "icon_url": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
-      }
-    ]
-  },
-  {
-    "time": "2022/01 - ongoing",
-    "header": "Mina protocol",
-    "tags": ["zero-knowledge proofs", "smart contracts"],
-    "description": "https://raw.githubusercontent.com/RaidasGrisk/raidasgrisk.github.io/static-assets/assets/11.md",
-    "github_links": [],
-    "tech_stack": [
-      {
-        "title": "snarkyjs",
-        "icon_url": "https://cryptologos.cc/logos/mina-mina-logo.png"
-      },
-      {
-        "title": "vuejs",
-        "icon_url": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"
-      },
-      {
-        "title": "graphQL",
-        "icon_url": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg"
-      },     
-      {
-        "title": "google cloud",
-        "icon_url": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg"
-      },
-      {
-        "title": "docker",
-        "icon_url": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg"
-      },
-      {
-        "title": "Nodejs",
-        "icon_url": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
-      }
-    ]
-  }  
+   {
+      "time":"2022/01 - ongoing",
+      "header":"Mina protocol",
+      "tags":[
+         "zero-knowledge proofs",
+         "smart contracts"
+      ],
+      "description":"https://raw.githubusercontent.com/RaidasGrisk/raidasgrisk.github.io/static-assets/assets/11.md",
+      "github_links":[
+         
+      ],
+      "tech_stack":[
+         {
+            "title":"snarkyjs",
+            "icon_url":"https://cryptologos.cc/logos/mina-mina-logo.png"
+         },
+         {
+            "title":"vuejs",
+            "icon_url":"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"
+         },
+         {
+            "title":"graphQL",
+            "icon_url":"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg"
+         },
+         {
+            "title":"google cloud",
+            "icon_url":"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg"
+         },
+         {
+            "title":"docker",
+            "icon_url":"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg"
+         },
+         {
+            "title":"Nodejs",
+            "icon_url":"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
+         }
+      ]
+   },
+   {
+      "time":"2023/01 - 2023/03",
+      "header":"Building a website powered by CMS",
+      "tags":[
+         "full-stack-dev",
+         "CMS",
+         "devops"
+      ],
+      "description":"https://raw.githubusercontent.com/RaidasGrisk/raidasgrisk.github.io/static-assets/assets/10.md",
+      "github_links":[
+         
+      ],
+      "tech_stack":[
+         {
+            "title":"Strapi",
+            "icon_url":"https://www.svgrepo.com/show/354399/strapi-icon.svg"
+         },
+         {
+            "title":"vuejs",
+            "icon_url":"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"
+         },
+         {
+            "title":"google cloud",
+            "icon_url":"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg"
+         },
+         {
+            "title":"docker",
+            "icon_url":"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg"
+         },
+         {
+            "title":"Nodejs",
+            "icon_url":"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
+         }
+      ]
+   },
+   {
+      "time":"2022",
+      "header":"Learning blockchain",
+      "tags":[
+         "blockchain",
+         "smart contracts",
+         "EVM",
+         "zero-knowledge proofs"
+      ],
+      "description":"https://raw.githubusercontent.com/RaidasGrisk/raidasgrisk.github.io/static-assets/assets/9.md",
+      "github_links":[
+         
+      ],
+      "tech_stack":[
+         {
+            "title":"solidity",
+            "icon_url":"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg"
+         },
+         {
+            "title":"hardhat",
+            "icon_url":"https://pbs.twimg.com/profile_images/1317925773425168384/XQkaoFRg_400x400.jpg"
+         },
+         {
+            "title":"nodejs",
+            "icon_url":"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
+         },
+         {
+            "title":"snarkyjs",
+            "icon_url":"https://cryptologos.cc/logos/mina-mina-logo.png"
+         }
+      ]
+   },
+   {
+      "time":"2021/09 - 2022/06",
+      "header":"Gov project: LMS from scratch",
+      "tags":[
+         "full-stack-dev",
+         "devops"
+      ],
+      "description":"https://raw.githubusercontent.com/RaidasGrisk/raidasgrisk.github.io/static-assets/assets/8.md",
+      "github_links":[
+         
+      ],
+      "tech_stack":[
+         {
+            "title":"google cloud",
+            "icon_url":"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg"
+         },
+         {
+            "title":"docker",
+            "icon_url":"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg"
+         },
+         {
+            "title":"nginx",
+            "icon_url":"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg"
+         },
+         {
+            "title":"Nodejs",
+            "icon_url":"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
+         },
+         {
+            "title":"vuejs",
+            "icon_url":"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"
+         },
+         {
+            "title":"mongodb",
+            "icon_url":"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"
+         }
+      ]
+   },
+   {
+      "time":"2020",
+      "header":"Reddit r/cryptocurrency coin mention app",
+      "tags":[
+         "full-stack-dev",
+         "reddit",
+         "asynchronous programming"
+      ],
+      "description":"https://raw.githubusercontent.com/RaidasGrisk/raidasgrisk.github.io/static-assets/assets/7.md",
+      "github_links":[
+         {
+            "title":"reddit-to-db",
+            "url":"https://github.com/RaidasGrisk/reddit-to-db"
+         },
+         {
+            "title":"reddit-coin-api",
+            "url":"https://github.com/RaidasGrisk/reddit-coin-app"
+         },
+         {
+            "title":"reddit-coin-frontend",
+            "url":"https://github.com/RaidasGrisk/reddit-coin-web"
+         }
+      ],
+      "tech_stack":[
+         {
+            "title":"google cloud",
+            "icon_url":"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg"
+         },
+         {
+            "title":"docker",
+            "icon_url":"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg"
+         },
+         {
+            "title":"nginx",
+            "icon_url":"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg"
+         },
+         {
+            "title":"python",
+            "icon_url":"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
+         },
+         {
+            "title":"vuejs",
+            "icon_url":"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"
+         },
+         {
+            "title":"postgresdb",
+            "icon_url":"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"
+         }
+      ]
+   },
+   {
+      "time":"2020",
+      "header":"NameSpy",
+      "tags":[
+         "web-scraping",
+         "full-stack-dev",
+         "machine learning"
+      ],
+      "description":"https://raw.githubusercontent.com/RaidasGrisk/raidasgrisk.github.io/static-assets/assets/6.md",
+      "github_links":[
+         {
+            "title":"nameSpy",
+            "url":"https://github.com/RaidasGrisk/nameSpy"
+         }
+      ],
+      "tech_stack":[
+         {
+            "title":"google cloud",
+            "icon_url":"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg"
+         },
+         {
+            "title":"docker",
+            "icon_url":"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg"
+         },
+         {
+            "title":"nginx",
+            "icon_url":"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg"
+         },
+         {
+            "title":"python",
+            "icon_url":"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
+         },
+         {
+            "title":"vuejs",
+            "icon_url":"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"
+         },
+         {
+            "title":"mongodb",
+            "icon_url":"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"
+         }
+      ]
+   },
+   {
+      "time":"2019",
+      "header":"Web scraping",
+      "tags":[
+         "web-scraping",
+         "full-stack-dev"
+      ],
+      "description":"https://raw.githubusercontent.com/RaidasGrisk/raidasgrisk.github.io/static-assets/assets/5.md",
+      "github_links":[
+         {
+            "title":"cvpis-app",
+            "url":"https://github.com/RaidasGrisk/cvpisApp"
+         }
+      ],
+      "tech_stack":[
+         {
+            "title":"python",
+            "icon_url":"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
+         },
+         {
+            "title":"nginx",
+            "icon_url":"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg"
+         },
+         {
+            "title":"google cloud",
+            "icon_url":"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg"
+         },
+         {
+            "title":"aws",
+            "icon_url":"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg"
+         },
+         {
+            "title":"bash",
+            "icon_url":"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"
+         },
+         {
+            "title":"couchdb",
+            "icon_url":"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/couchdb/couchdb-original.svg"
+         }
+      ]
+   },
+   {
+      "time":"2019",
+      "header":"Deeper dive into computer vision",
+      "tags":[
+         "machine learning",
+         "Computer vision"
+      ],
+      "description":"https://raw.githubusercontent.com/RaidasGrisk/raidasgrisk.github.io/static-assets/assets/4.md",
+      "github_links":[
+         {
+            "title":"tf2-crnn",
+            "url":"https://github.com/RaidasGrisk/tf2-crnn"
+         },
+         {
+            "title":"tf2-fots",
+            "url":"https://github.com/RaidasGrisk/tf2-fots"
+         },
+         {
+            "title":"tf2-face-detection-recognition",
+            "url":"https://github.com/RaidasGrisk/tf2-face-detection-recognition"
+         }
+      ],
+      "tech_stack":[
+         {
+            "title":"python",
+            "icon_url":"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
+         },
+         {
+            "title":"numpy",
+            "icon_url":"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg"
+         },
+         {
+            "title":"tensorflow",
+            "icon_url":"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg"
+         }
+      ]
+   },
+   {
+      "time":"2018 - 2019",
+      "header":"Data Scientist at Western Union",
+      "tags":[
+         "data science",
+         "machine learning"
+      ],
+      "description":"https://raw.githubusercontent.com/RaidasGrisk/raidasgrisk.github.io/static-assets/assets/3.md",
+      "github_links":[
+         
+      ],
+      "tech_stack":[
+         {
+            "title":"python",
+            "icon_url":"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
+         },
+         {
+            "title":"scikit-learn",
+            "icon_url":"https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_77c883b19775c25838d2055fc2e7387e/scikit-learn.png"
+         },
+         {
+            "title":"numpy",
+            "icon_url":"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg"
+         },
+         {
+            "title":"tensorflow",
+            "icon_url":"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg"
+         },
+         {
+            "title":"pandas",
+            "icon_url":"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg"
+         },
+         {
+            "title":"SQL",
+            "icon_url":"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"
+         },
+         {
+            "title":"bash",
+            "icon_url":"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"
+         }
+      ]
+   },
+   {
+      "time":"2018",
+      "header":"Trading bot",
+      "tags":[
+         "data science",
+         "machine learning"
+      ],
+      "description":"https://raw.githubusercontent.com/RaidasGrisk/raidasgrisk.github.io/static-assets/assets/2.md",
+      "github_links":[
+         {
+            "title":"trading-bot",
+            "url":"https://github.com/RaidasGrisk/Trading-Bot"
+         }
+      ],
+      "tech_stack":[
+         {
+            "title":"python",
+            "icon_url":"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
+         },
+         {
+            "title":"numpy",
+            "icon_url":"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg"
+         },
+         {
+            "title":"tensorflow",
+            "icon_url":"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg"
+         },
+         {
+            "title":"pandas",
+            "icon_url":"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg"
+         }
+      ]
+   },
+   {
+      "time":"2017",
+      "header":"Machine Learning",
+      "tags":[
+         "machine learning",
+         "computer science",
+         "openAI-gym"
+      ],
+      "description":"https://raw.githubusercontent.com/RaidasGrisk/raidasgrisk.github.io/static-assets/assets/1.md",
+      "github_links":[
+         {
+            "title":"ML-algos",
+            "url":"https://github.com/RaidasGrisk/ML-algorithms"
+         },
+         {
+            "title":"CS50",
+            "url":"https://github.com/RaidasGrisk/cs50-harward"
+         }
+      ],
+      "tech_stack":[
+         {
+            "title":"python",
+            "icon_url":"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
+         },
+         {
+            "title":"numpy",
+            "icon_url":"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg"
+         },
+         {
+            "title":"tensorflow",
+            "icon_url":"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg"
+         }
+      ]
+   }
 ]
