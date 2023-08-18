@@ -11,13 +11,14 @@ const theme = ref(darkTheme)
 
 const themeOverrides = {
   common: {
-    "primaryColor": "#7844e9",
-    "primaryColorHover": "#7237f0",
-    "primaryColorPressed": "#432f6e",
-    "primaryColorSuppl": "rgb(42, 148, 125)",
-    "infoColor": "#00F0B5",
-    "infoColorHover": "#70ffdb",
-    "infoColorPressed": "#00A37A",
+    'primaryColor': '#7844e9',
+    'primaryColorHover': '#7237f0',
+    'primaryColorPressed': '#432f6e',
+    'primaryColorSuppl': 'rgb(42, 148, 125)',
+    'infoColor': '#00F0B5',
+    'infoColorHover': '#70ffdb',
+    'infoColorPressed': '#00A37A',
+    'borderRadius': '7px',
   }
 }
 
@@ -36,7 +37,7 @@ const themeOverrides = {
         <n-page-header subtitle="" style="padding: 32px;">
           <template #title>
             <a href="/" style="text-decoration: none; color: inherit">
-              Raidas Grisk
+              Raidas
             </a>
           </template>
           <template #avatar>

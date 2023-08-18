@@ -17,7 +17,7 @@ const emailButtonClick = async () => {
     <n-space justify="center">
       <n-h4 style="padding-top: 12px">
         <n-text type="primary">
-          Raidas Grisk
+          Raidas
         </n-text>
       </n-h4>
       <n-divider vertical style="height: 42px;" />

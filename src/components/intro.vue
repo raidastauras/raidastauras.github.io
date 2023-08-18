@@ -11,12 +11,11 @@ const emailButtonClick = async () => {
   message.success('email copied to clipboard')
 }
 
-const show = ref(false)
+const show = ref(true)
 const data = ref({})
 onMounted(() => {
   let data_url = 'https://raw.githubusercontent.com/RaidasGrisk/raidasgrisk.github.io/static-assets/assets/intro.json'
   axios.get(data_url).then(resp => {
-    console.log(resp.data)
     data.value = resp.data
   })
 })
@@ -46,13 +45,13 @@ onMounted(() => {
           <n-divider vertical />
           machine learning engineer
           <n-divider vertical />
-          aspiring blockchain developer
+          blockchain developer
         </n-text>
       </div>
       <br>
-      <div>
+      <!-- <div>
         <a @click="show = !show" style="cursor: pointer">More about me...</a>
-      </div>
+      </div> -->
       <br>
       <n-tag round :bordered="false" :size="'large'" style="padding: 30px;">
         <template #default>
@@ -80,15 +79,22 @@ onMounted(() => {
     <n-collapse-transition :show="show">
       <br>
       <n-card style="max-width: 41.2rem; ">
-        <n-table :bordered="false" :single-line="false">
-          <tbody style="text-align: justify; text-justify: inter-word;">
-            <tr v-for="(value, key, index) in data">
-              <td style="border: 0px;"><h4>{{ key }}</h4></td>
-              <td style="border: 0px;"><n-divider vertical style="height: 20px; width: 2px;"/></td>
-              <td style="border: 0px;">{{ value }}</td>
-            </tr>
-          </tbody>
-        </n-table>
+        <div v-if="Object.keys(data).length">
+          <n-table :bordered="false" :single-line="false">
+            <tbody style="text-align: justify; text-justify: inter-word;">
+              <tr v-for="(value, key, index) in data">
+                <td style="border: 0px;"><h4>{{ key }}</h4></td>
+                <td style="border: 0px;"><n-divider vertical style="height: 20px; width: 2px;"/></td>
+                <td style="border: 0px;">{{ value }}</td>
+              </tr>
+            </tbody>
+          </n-table>
+        </div>
+        <div v-else>
+          <n-space :size="[0, 30]" vertical>
+            <n-skeleton height="50px" :sharp="false" v-for="_ in Array(7)"/>
+          </n-space>
+        </div>
       </n-card>
     </n-collapse-transition>
   </n-space>
