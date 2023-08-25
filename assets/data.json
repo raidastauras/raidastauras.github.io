@@ -8,7 +8,18 @@
       ],
       "description":"https://raw.githubusercontent.com/RaidasGrisk/raidasgrisk.github.io/static-assets/assets/11.md",
       "github_links":[
-         
+         {
+            "title":"Mina-node-dashboard",
+            "url":"https://github.com/RaidasGrisk/mina-node-dashboard"
+         },
+         {
+            "title":"zk-github-oracle",
+            "url":"https://github.com/RaidasGrisk/zk-github-oracle"
+         },
+         {
+            "title":"zk-github-smart-contract",
+            "url":"https://github.com/RaidasGrisk/zk-github-smart-contract"
+         }
       ],
       "tech_stack":[
          {
