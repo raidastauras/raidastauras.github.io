@@ -12,6 +12,10 @@
       ],
       "tech_stack":[
          {
+            "title":"typescript",
+            "icon_url":"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
+         },
+         {
             "title":"snarkyjs",
             "icon_url":"https://cryptologos.cc/logos/mina-mina-logo.png"
          },
@@ -30,10 +34,6 @@
          {
             "title":"docker",
             "icon_url":"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg"
-         },
-         {
-            "title":"Nodejs",
-            "icon_url":"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
          }
       ]
    },
