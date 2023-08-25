@@ -6,7 +6,7 @@
          "zero-knowledge proofs",
          "smart contracts"
       ],
-      "description":"https://raw.githubusercontent.com/RaidasGrisk/raidasgrisk.github.io/static-assets/assets/11.md",
+      "description":"https://raw.githubusercontent.com/RaidasGrisk/raidasgrisk.github.io/static-assets/assets/12.md",
       "github_links":[
          {
             "title":"Mina-node-dashboard",
@@ -21,6 +21,43 @@
             "url":"https://github.com/RaidasGrisk/zk-github-smart-contract"
          }
       ],
+      "tech_stack":[
+         {
+            "title":"typescript",
+            "icon_url":"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
+         },
+         {
+            "title":"snarkyjs",
+            "icon_url":"https://cryptologos.cc/logos/mina-mina-logo.png"
+         },
+         {
+            "title":"vuejs",
+            "icon_url":"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"
+         },
+         {
+            "title":"graphQL",
+            "icon_url":"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg"
+         },
+         {
+            "title":"google cloud",
+            "icon_url":"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg"
+         },
+         {
+            "title":"docker",
+            "icon_url":"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg"
+         }
+      ]
+   },
+      {
+      "time":"2023/03 - 2023/07",
+      "header":"Automating the data extraction in bureaucratic-paper-party",
+      "tags":[
+         "tensorflow",
+         "keras",
+         "OCR"
+      ],
+      "description":"https://raw.githubusercontent.com/RaidasGrisk/raidasgrisk.github.io/static-assets/assets/11.md",
+      "github_links":[],
       "tech_stack":[
          {
             "title":"typescript",
