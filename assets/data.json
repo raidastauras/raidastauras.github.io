@@ -1,5 +1,69 @@
 [
    {
+      "time":"2023/12 - ongoing",
+      "header":"🐮 + 💥 + 🤖",
+      "tags":[
+         "cows",
+         "machine learning",
+         "lasers"
+      ],
+      "description":"https://raw.githubusercontent.com/RaidasGrisk/raidasgrisk.github.io/static-assets/assets/14.md",
+      "github_links":[],
+      "tech_stack":[
+         {
+            "title":"python",
+            "icon_url":"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
+         },
+         {
+            "title":"tensorflow",
+            "icon_url":"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg"
+         }
+      ]
+   },
+      {
+      "time":"2023/06 - ongoing",
+      "header":"id-mask",
+      "tags":[
+         "digital identity",
+         "zero knowledge proofs",
+         "Mina blockchain",
+         "O1js"
+      ],
+      "description":"https://raw.githubusercontent.com/RaidasGrisk/raidasgrisk.github.io/static-assets/assets/13.md",
+      "github_links":[
+         {
+            "title":"id-mask",
+            "url":"https://github.com/id-Mask"
+         }
+      ],
+      "tech_stack":[
+         {
+            "title":"typescript",
+            "icon_url":"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
+         },
+         {
+            "title":"o1js",
+            "icon_url":"https://cryptologos.cc/logos/mina-mina-logo.png"
+         },
+         {
+            "title":"vuejs",
+            "icon_url":"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"
+         },
+         {
+            "title":"smart-id",
+            "icon_url":"https://www.smart-id.com/wordpress/wp-content/uploads/2021/11/smart_id_logo.svg"
+         },
+         {
+            "title":"google cloud",
+            "icon_url":"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg"
+         },
+         {
+            "title":"docker",
+            "icon_url":"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg"
+         }
+      ]
+   },
+   {
       "time":"2022/01 - ongoing",
       "header":"Mina protocol",
       "tags":[
