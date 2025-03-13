@@ -23,7 +23,7 @@ onMounted(() => {
 </script>
 
 <template>
-  <n-h1 style="font-size: 50px;">Hi, my name is Raidas</n-h1><br>
+  <n-h1 style="font-size: 50px; color: #cccccc;">Hi, my name is Raidas</n-h1><br>
   <n-space vertical :size="25">
     <n-space>
     <n-avatar
@@ -39,13 +39,13 @@ onMounted(() => {
         <n-text strong depth="3" type="primary" style="font-size: 25px">
           I am
         </n-text>
-        <n-text strong type="info">
+        <n-text strong type="primary">
           <n-divider vertical />
           full stack developer
           <n-divider vertical />
           machine learning engineer
           <n-divider vertical />
-          blockchain developer
+          zero-knowledge-proofs tinkerer
         </n-text>
       </div>
       <br>
@@ -61,7 +61,7 @@ onMounted(() => {
                 <n-icon :component="LogoTwitter"/>
               </template>
             </n-button>
-            <n-button tertiary circle type="info" tag="a" href="https://github.com/RaidasGrisk" target="_blank">
+            <n-button tertiary circle type="info" tag="a" href="https://github.com/raidastauras" target="_blank">
               <template #icon>
                 <n-icon :component="LogoGithub"/>
               </template>
@@ -78,7 +78,7 @@ onMounted(() => {
     </n-space>
     <n-collapse-transition :show="show">
       <br>
-      <n-card style="max-width: 41.2rem; ">
+      <n-card style="max-width: 41.2rem;">
         <div v-if="Object.keys(data).length">
           <n-table :bordered="false" :single-line="false">
             <tbody style="text-align: justify; text-justify: inter-word;">
