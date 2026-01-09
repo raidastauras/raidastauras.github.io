@@ -36,9 +36,6 @@ onMounted(() => {
     /><br><br>
     <div style="max-width: 360px; position: relative; top: 50%; -webkit-transform: translateY(-50%); -ms-transform: translateY(-50%); transform: translateY(-50%);">
       <div>
-        <n-text strong depth="3" type="primary" style="font-size: 25px">
-          I am
-        </n-text>
         <n-text strong type="primary">
           <n-divider vertical />
           full stack developer
