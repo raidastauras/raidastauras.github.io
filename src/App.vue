@@ -3,9 +3,9 @@ import { ref } from 'vue'
 import intro from './components/intro.vue'
 import timeline from './components/timeline.vue'
 import footer_ from './components/footer_.vue'
-import { darkTheme } from 'naive-ui'
+import { lightTheme } from 'naive-ui'
 
-const theme = ref(darkTheme)
+const theme = ref(lightTheme)
 
 const themeOverrides = {
   common: {
@@ -28,16 +28,18 @@ const themeOverrides = {
   <n-notification-provider>
     <n-layout>
       <div style="height: 5em;"></div>
-      <n-layout-content content-style="padding: 32px;">
+      <n-layout-content content-style="padding: 64px 164px;">
         <n-space justify="center">
-          <div>
+          <div style="max-width: 600px; width: 100%;">
             <intro />
+            <div style="margin: 4em;" />
             <timeline />
           </div>
         </n-space>
       </n-layout-content>
       <n-layout-footer>
-        <footer_ />
+        <div style="margin: 8em;" />
+        <!-- <footer_ /> -->
       </n-layout-footer>
     </n-layout>
   </n-notification-provider>
