@@ -1,6 +1,8 @@
 <script setup>
 import { onMounted, ref } from 'vue'
-import { useMessage } from 'naive-ui'
+import { useMessage, useThemeVars } from 'naive-ui'
+
+const themeVars = useThemeVars()
 
 const message = useMessage()
 
@@ -24,17 +26,17 @@ onMounted(async () => {
     <div>
       <n-text :depth="3">
         Full stack developer
-        <n-divider vertical />
+        <n-divider vertical style="width: 2px;" />
         Machine learning engineer
-        <n-divider vertical />
+        <n-divider vertical style="width: 2px;" />
         Zero-knowledge-proofs tinkerer
       </n-text>
     </div>
     <div>
       Find me on 
-      <n-button text tag="a" href="https://twitter.com/raidasg" target="_blank" style="text-decoration: underline; text-decoration-color: #ccc;">X</n-button>,
-      <n-button text tag="a" href="https://github.com/raidastauras" target="_blank" style="text-decoration: underline; text-decoration-color: #ccc;">Github</n-button>,
-      or reach me via <n-button text @click="emailButtonClick" style="text-decoration: underline; text-decoration-color: #ccc;">email</n-button>.
+      <n-button text tag="a" href="https://twitter.com/raidasg" target="_blank" class="subtle-link">X</n-button>,
+      <n-button text tag="a" href="https://github.com/raidastauras" target="_blank" class="subtle-link">Github</n-button>,
+      or reach me via <n-button text @click="emailButtonClick" class="subtle-link">email</n-button>.
     </div>
   </n-flex>
   <div style="margin: 3em;" />
@@ -55,4 +57,9 @@ onMounted(async () => {
 </template>
 
 <style scoped>
+.subtle-link {
+  text-decoration: underline;
+  text-decoration-color: v-bind('themeVars.dividerColor');
+  text-decoration-thickness: 2px;
+}
 </style>
