@@ -28,14 +28,16 @@ const themeOverrides = {
   <n-notification-provider>
     <n-layout>
       <div style="height: 5em;"></div>
-      <n-layout-content content-style="padding: 64px 164px;">
-        <n-space justify="center">
-          <div style="max-width: 600px; width: 100%;">
-            <intro />
-            <div style="margin: 4em;" />
-            <timeline />
-          </div>
-        </n-space>
+      <n-layout-content>
+        <div class="main-content">
+          <n-space justify="center">
+            <div style="max-width: 600px; width: 100%;">
+              <intro />
+              <div style="margin: 4em;" />
+              <timeline />
+            </div>
+          </n-space>
+        </div>
       </n-layout-content>
       <n-layout-footer>
         <div style="margin: 8em;" />
@@ -48,4 +50,13 @@ const themeOverrides = {
 </template>
 
 <style scoped>
+.main-content {
+  padding: 64px 164px;
+}
+
+@media (max-width: 768px) {
+  .main-content {
+    padding: 32px 20px;
+  }
+}
 </style>
