@@ -1,7 +1,7 @@
 [
    {
       "time":"2025",
-      "header":"advntyr.app",
+      "header":"Advntyr.app",
       "tags":[
          "ai-agent",
          "trip-planner"
@@ -12,7 +12,7 @@
    },
    {
       "time":"2024",
-      "header":"Recurring thought throughout 2024",
+      "header":"Progress over comfort",
       "tags":[
          "complacency"
       ],
@@ -22,7 +22,7 @@
    },
    {
       "time":"2024 - ongoing",
-      "header":"🐮 + 💥 + 🤖",
+      "header":"Cows & lasers",
       "tags":[
          "cows",
          "lasers",
@@ -45,7 +45,7 @@
    },
       {
       "time":"2023/06 - ongoing",
-      "header":"id-mask",
+      "header":"Id-Mask",
       "tags":[
          "digital identity",
          "zero knowledge proofs",
@@ -88,7 +88,7 @@
    },
    {
       "time":"2022/01 - ongoing",
-      "header":"Mina protocol",
+      "header":"Zero-knowledge apps on Mina",
       "tags":[
          "zero-knowledge proofs",
          "smart contracts",
@@ -138,7 +138,7 @@
    },
       {
       "time":"2023/03 - 2023/07",
-      "header":"Unleashing Machine Learning on Bureaucratic Paper Party",
+      "header":"Border document OCR & classification",
       "tags":[
          "tensorflow",
          "keras",
@@ -163,7 +163,7 @@
    },
    {
       "time":"2023/01 - 2023/03",
-      "header":"Building a website powered by CMS",
+      "header":"Client website with headless CMS",
       "tags":[
          "full-stack-dev",
          "CMS",
@@ -198,7 +198,7 @@
    },
    {
       "time":"2022",
-      "header":"Learning blockchain",
+      "header":"Exploring blockchain",
       "tags":[
          "blockchain",
          "smart contracts",
@@ -230,7 +230,7 @@
    },
    {
       "time":"2021/09 - 2022/06",
-      "header":"Gov project: LMS from scratch",
+      "header":"Lean LMS for government",
       "tags":[
          "full-stack-dev",
          "devops"
@@ -268,7 +268,7 @@
    },
    {
       "time":"2021",
-      "header":"Reddit r/cryptocurrency coin mention app",
+      "header":"Redditcoins.app",
       "tags":[
          "full-stack-dev",
          "reddit",
@@ -318,7 +318,7 @@
    },
    {
       "time":"2020",
-      "header":"NameSpy",
+      "header":"NameSpy.dev",
       "tags":[
          "web-scraping",
          "full-stack-dev",
@@ -360,7 +360,7 @@
    },
    {
       "time":"2019",
-      "header":"Web scraping",
+      "header":"Government tender monitor",
       "tags":[
          "web-scraping",
          "full-stack-dev"
@@ -401,7 +401,7 @@
    },
    {
       "time":"2019",
-      "header":"Deeper dive into computer vision",
+      "header":"Real-time text and face recognition",
       "tags":[
          "machine learning",
          "Computer vision"
@@ -438,7 +438,7 @@
    },
    {
       "time":"2018 - 2019",
-      "header":"Data Scientist at Western Union",
+      "header":"Fraud police at Western Union",
       "tags":[
          "data science",
          "machine learning"
@@ -513,7 +513,7 @@
    },
    {
       "time":"2017",
-      "header":"Machine Learning",
+      "header":"Learning Machine Learning",
       "tags":[
          "machine learning",
          "computer science",
