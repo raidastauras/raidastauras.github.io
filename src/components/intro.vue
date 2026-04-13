@@ -36,7 +36,7 @@ onMounted(async () => {
       Find me on 
       <n-button text tag="a" href="https://twitter.com/raidasg" target="_blank" class="subtle-link">X</n-button>,
       <n-button text tag="a" href="https://github.com/raidastauras" target="_blank" class="subtle-link">Github</n-button>,
-      or reach me via <n-button text @click="emailButtonClick" class="subtle-link">email</n-button>.
+      or <n-button text @click="emailButtonClick" class="subtle-link">email</n-button>.
     </div>
   </n-flex>
   <div style="margin: 3em;" />
