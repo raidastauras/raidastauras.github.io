@@ -130,7 +130,7 @@ const openArticle = async (item) => {
   align-items: baseline;
   gap: 0 1rem;
   padding: 0.3rem 0;
-  transition: opacity 0.15s ease;
+  transition: opacity 0.25s ease;
 }
 
 .row:hover {
@@ -139,6 +139,10 @@ const openArticle = async (item) => {
 
 .row:hover .title {
   color: #7844e9;
+}
+
+.timeline:has(.row:hover) .row:not(:hover) {
+  opacity: 0.35;
 }
 
 .year {

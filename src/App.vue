@@ -35,14 +35,20 @@ const themeOverrides = {
               <intro />
               <div style="margin: 4em;" />
               <timeline />
+              <div style="margin: 6em;" />
             </div>
           </n-space>
         </div>
       </n-layout-content>
-      <n-layout-footer>
-        <div style="margin: 8em;" />
-        <!-- <footer_ /> -->
-      </n-layout-footer>
+      <!-- <n-layout-footer style="border-top: 1px solid rgba(0,0,0,0.06); padding: 1.5em 0;">
+        <div class="main-content">
+          <n-space justify="center">
+            <div style="max-width: 600px; width: 100%;">
+              <footer_ />
+            </div>
+          </n-space>
+        </div>
+      </n-layout-footer> -->
     </n-layout>
   </n-notification-provider>
   </n-message-provider>
