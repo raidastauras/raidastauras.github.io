@@ -25,7 +25,7 @@ onMounted(async () => {
     <n-text style="font-size: 18px;" strong>Raidas Tauras</n-text>
     <div>
       <n-text :depth="3">
-        Full stack developer
+        Software developer
         <n-divider vertical style="width: 2px;" />
         Machine learning engineer
         <n-divider vertical style="width: 2px;" />
